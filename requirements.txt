@@ -1,0 +1,3 @@
+beir
+pandas
+sentence-transformers
