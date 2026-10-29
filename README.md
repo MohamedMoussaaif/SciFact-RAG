@@ -317,7 +317,6 @@ scifact-rag/
 ├── generation.py
 ├── main.py
 │
-├── requirements.txt
 ├── .env
 ├── .gitignore
 └── README.md
